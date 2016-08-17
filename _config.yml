@@ -1,28 +1,40 @@
-name: RIZOM
-favicon: null
-layout_spectrum: 0.3240782527718693
-typography_spectrum: 0.9966083450708538
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6899298212956637
+  brandStrength: 1
+  lightness: 0.4851138214580715
+  brandColors:
+    - '#FFFFFF'
+    - '#BBDD00'
+    - '#7F7F7F'
+    - '#D7EB7C'
+    - '#191919'
+  rhythmicContrast: 0.5018952144309878
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: RIZOM
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7382901343517005
-  lightness: 0.48511382145807147
-  saturation: 0.6899298212956637
-  rhythmicContrast: 0.5018952144309878
-purpose: []
+typography_spectrum: 0.9966083450708538
+layout_spectrum: 0.3240782527718693
