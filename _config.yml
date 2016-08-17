@@ -22,19 +22,19 @@ color:
     - '#D7EB7C'
     - '#191919'
   rhythmicContrast: 0.5018952144309878
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: RIZOM
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9966083450708538
-layout_spectrum: 0.3240782527718693
+typography_spectrum: 0.1559865
+layout_spectrum: 0.5109612
